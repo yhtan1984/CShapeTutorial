@@ -1,0 +1,4 @@
+c:\users\yinhoon\documents\visual studio 2010\Projects\Tutorial\Codility\bin\Debug\Codility.dll
+c:\users\yinhoon\documents\visual studio 2010\Projects\Tutorial\Codility\bin\Debug\Codility.pdb
+c:\users\yinhoon\documents\visual studio 2010\Projects\Tutorial\Codility\obj\Debug\Codility.dll
+c:\users\yinhoon\documents\visual studio 2010\Projects\Tutorial\Codility\obj\Debug\Codility.pdb

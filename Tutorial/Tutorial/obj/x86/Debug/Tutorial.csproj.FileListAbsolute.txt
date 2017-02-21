@@ -1,0 +1,9 @@
+c:\users\yinhoon\documents\visual studio 2010\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.exe
+c:\users\yinhoon\documents\visual studio 2010\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.pdb
+c:\users\yinhoon\documents\visual studio 2010\Projects\Tutorial\Tutorial\obj\x86\Debug\Tutorial.exe
+c:\users\yinhoon\documents\visual studio 2010\Projects\Tutorial\Tutorial\obj\x86\Debug\Tutorial.pdb
+c:\users\yinhoon\documents\visual studio 2010\Projects\Tutorial\Tutorial\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+c:\users\yinhoon\documents\visual studio 2010\Projects\Tutorial\Tutorial\bin\Debug\Codility.dll
+c:\users\yinhoon\documents\visual studio 2010\Projects\Tutorial\Tutorial\bin\Debug\Codility.pdb
+C:\Users\yinhoon\Documents\Visual Studio 2010\Projects\Tutorial\Tutorial\bin\Debug\DesignPattern.dll
+C:\Users\yinhoon\Documents\Visual Studio 2010\Projects\Tutorial\Tutorial\bin\Debug\DesignPattern.pdb

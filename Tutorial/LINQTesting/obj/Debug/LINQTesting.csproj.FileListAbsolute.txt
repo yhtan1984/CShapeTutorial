@@ -1,0 +1,4 @@
+c:\users\yinhoon\documents\visual studio 2010\Projects\Tutorial\LINQTesting\bin\Debug\LINQTesting.dll
+c:\users\yinhoon\documents\visual studio 2010\Projects\Tutorial\LINQTesting\bin\Debug\LINQTesting.pdb
+c:\users\yinhoon\documents\visual studio 2010\Projects\Tutorial\LINQTesting\obj\Debug\LINQTesting.dll
+c:\users\yinhoon\documents\visual studio 2010\Projects\Tutorial\LINQTesting\obj\Debug\LINQTesting.pdb
